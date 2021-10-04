@@ -1,5 +1,25 @@
 # Assignment-1
 زهرا بادفرسا_97440186
+zahra@zahra-farsa:~$ arch
+x86_64
+zahra@zahra-farsa:~$ uptime
+ 17:56:34 up 54 min,  1 user,  load average: 0.31, 0.37, 0.35
+zahra@zahra-farsa:~$ free
+              total        used        free      shared  buff/cache   available
+Mem:        1999760     1425640       85868       49424      488252      371836
+Swap:        945416      385824      559592
+zahra@zahra-farsa:~$ pwd
+/home/zahra
+zahra@zahra-farsa:~$ Pwd
+
+Command 'Pwd' not found, did you mean:
+
+  command 'pwd' from deb coreutils (8.30-3ubuntu2)
+  command 'xwd' from deb x11-apps (7.7+8)
+  command 'gwd' from deb geneweb (6.08+git20181019+dfsg-2)
+
+Try: sudo apt install <deb name>
+
 
 دستور arch ?   این دستور نشان می دهد که سیستم عامل از نوع ۶۴ بیتی است یا ۳۲ بیتی
 
